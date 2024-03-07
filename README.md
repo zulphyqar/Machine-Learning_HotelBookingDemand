@@ -79,3 +79,9 @@ sumber :
 - https://www.orourkehospitality.com/resources/topic/hospitality-digital-marketing/4-tips-for-planning-your-2022-hospitality-marketing-budget/
 - https://www.selecthub.com/hotel-management/double-booking/
 - https://www.hoteliga.com/en/blog/how-to-minimize-hotel-booking-cancellations-and-chargebacks (deposit)
+
+---
+
+Link PPT : https://www.canva.com/design/DAF89YIzkkI/Qd7P3cFTHwAztbv5bZf1qg/edit?utm_content=DAF89YIzkkI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Link Tableau : https://public.tableau.com/views/HotelBookingDashboard_17078230063390/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
